@@ -1,5 +1,6 @@
 {
     "name": "loganhenson/php-parser",
+    "version": "4.0.3",
     "description": "A PHP parser written in PHP",
     "keywords": ["php", "parser"],
     "type": "library",
