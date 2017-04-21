@@ -21,10 +21,5 @@
             "PhpParser\\": "lib/PhpParser"
         }
     },
-    "bin": ["bin/php-parse"],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.0-dev"
-        }
-    }
+    "bin": ["bin/php-parse"]
 }
